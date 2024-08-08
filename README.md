@@ -1,4 +1,4 @@
-# Core-Banking-Java-App
+# Banking-Java-App
 Project Overview
 This project is a simple Java application designed to provide core banking features to bank customers. It includes functionalities such as opening a bank account, depositing funds, withdrawing funds, transferring funds, displaying all accounts (for bank managers), and closing an account. The project adheres to various validation rules and employs custom exceptions to handle specific error scenarios.
 
